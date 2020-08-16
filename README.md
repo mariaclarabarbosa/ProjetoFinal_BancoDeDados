@@ -1,4 +1,4 @@
-# ProjetoFina_BancoDeDados
+# Projeto Final: Banco De Dados
 Projeto final da matéria Banco de Dados na [Residência de Software](http://serratec.org/residencia-de-software/).
 
 - Feito em grupo com [Mariana Catão](https://github.com/marycatao), Jhonatan De Oliveira Batista, [Luis Felipe Granja](https://github.com/lfcgranja) e [Thiago Probst Coelho Vieira](https://github.com/ThiagoProbst).
